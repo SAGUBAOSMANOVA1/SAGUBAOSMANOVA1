@@ -2,7 +2,7 @@
 - 👀 I’m interested in FrontEnd development.
 - 🌱 I’m currently learning BackEnd development with JAVA and improving my skills in full-stack web development.
 - 💞️ I’m looking to collaborate on open-source projects related to web development and AI.
-- 📫 How to reach me: saqubesaqube@example.com or on [LinkedIn](https://www.linkedin.com/in/sagubaosmanova).
+- 📫 How to reach me: saqubesaqube@gmail.com or on [LinkedIn](https://www.linkedin.com/in/saguba-osmanova/).
 - 😄 Pronouns: she/her
 - ⚡ Fun fact:- 🏎️ I’m a huge fan of Formula 1 racing.
 - 🎶 I enjoy listening to and exploring different genres of music.
