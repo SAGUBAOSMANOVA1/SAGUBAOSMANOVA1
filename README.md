@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SAGUBAOSMANOVA1
-- 👀 I’m interested in FrontEnd development.
-- 🌱 I’m currently learning BackEnd development with JAVA and improving my skills in full-stack web development.
+- 👀 I’m interested in Data Analysis.
+- 🌱 I’m currently learning Data Analysis and improving my skills in analytycs.
 - 💞️ I’m looking to collaborate on open-source projects related to web development and AI.
 - 📫 How to reach me: saqubesaqube@gmail.com or on [LinkedIn](https://www.linkedin.com/in/saguba-osmanova/).
 - 😄 Pronouns: she/her
